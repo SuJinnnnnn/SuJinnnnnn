@@ -1,4 +1,4 @@
-# JUNG SU JIN✨
+# ✨JUNG SU JIN✨
 ### Hello👋
 안녕하세요! Frontend/Android 개발자 꿈꾸는 대학생 정수진 입니다 :)
 
