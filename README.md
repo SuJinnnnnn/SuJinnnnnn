@@ -1,7 +1,7 @@
 ### Hi👋
 안녕하세요! Frontend/Android 개발자 꿈꾸는 대학생 정수진 입니다 :)
 
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=HTML&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=CSS3&logoColor=1572B6"/>
 
 
 <!--
