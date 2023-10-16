@@ -2,7 +2,6 @@
 ### Hello👋
 안녕하세요! Frontend/Android 개발자 꿈꾸는 대학생 정수진 입니다 :)
 
-
 # Skill
 ### Languages
 ![CSS3](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -13,7 +12,6 @@
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
