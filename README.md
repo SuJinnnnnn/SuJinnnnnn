@@ -3,7 +3,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20&desc=Desc&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20&desc=Desc&descAlignY=80)
 # ✨JUNG SU JIN✨
 ### Hello👋
 안녕하세요! Frontend/Android 개발자 꿈꾸는 대학생 정수진 입니다 :)
