@@ -1,6 +1,7 @@
 
 # ✨JUNG SU JIN✨
-안녕하세요! Frontend/Android 개발자 꿈꾸는 대학생 정수진 입니다 :)
+안녕하세요! 개발자 꿈꾸고 있는 대학생 정수진 입니다.
+현재 Android/IOS 개발자로 일하고 있습니다.
 
 # Skill
 ### Languages
