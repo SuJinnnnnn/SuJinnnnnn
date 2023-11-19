@@ -1,8 +1,7 @@
-
+, 
 # ✨JUNG SU JIN✨
-안녕하세요! 개발자 꿈꾸고 있는 대학생 정수진 입니다.
-현재 Android/IOS 개발자로 일하고 있습니다.
-
+안녕하세요! UI/UX Deginer, Frontend Developer, Mobile Developer 꿈꾸는 대학생 정수진 입니다.
+현재, Android/IOS 개발자입니다. 
 # Skill
 ### Languages
 ![CSS3](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
