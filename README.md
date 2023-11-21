@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20&text=I'm%20SuJin&fontSize=50&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello&fontSize=50&fontColor=000000)
 # ✨JUNG SU JIN✨
 안녕하세요! UI/UX Deginer, Frontend Developer, Mobile Developer 되고 싶은 대학생 정수진 입니다.
 현재, Android/IOS 개발자입니다. 
