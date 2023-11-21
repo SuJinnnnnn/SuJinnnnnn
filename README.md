@@ -21,3 +21,5 @@
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junssj9069@gmail.com)](mailto:junssj9069@gmail.com)
+
+https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
