@@ -28,4 +28,7 @@
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junssj9069@gmail.com)](mailto:junssj9069@gmail.com)
+  <a href="https://jung-su-jin.tistory.com/">
+    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
 
