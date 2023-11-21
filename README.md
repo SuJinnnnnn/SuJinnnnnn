@@ -1,6 +1,5 @@
-, 
 # ✨JUNG SU JIN✨
-안녕하세요! UI/UX Deginer, Frontend Developer, Mobile Developer 꿈꾸는 대학생 정수진 입니다.
+안녕하세요! UI/UX Deginer, Frontend Developer, Mobile Developer 되고 싶은 대학생 정수진 입니다.
 현재, Android/IOS 개발자입니다. 
 # Skill
 ### Languages
