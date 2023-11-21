@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Jinny&descAlignY=55&descAlign=62)
 # ✨JUNG SU JIN✨
-안녕하세요! UI/UX Deginer, Frontend Developer, Mobile Developer 희망하는 대학생입니다.
-현재, Android/IOS 개발자입니다. 
+안녕하세요! UI/UX Deginer, Frontend Developer, Mobile Developer 꿈꾸는 대학생입니다.
 # Skill
 ### Languages
 ![CSS3](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
